@@ -2,6 +2,7 @@
 
 The system manages different tasks for employees
 
+<img src="Images/1.PNG">
 
 <img src="Images/2.PNG">
 
