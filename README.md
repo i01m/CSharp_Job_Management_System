@@ -2,7 +2,7 @@
 
 The system manages different tasks for employees
 
-<img src="Images/1.PNG">
+![1](https://user-images.githubusercontent.com/26156860/82154783-e15eda80-9835-11ea-81e1-838c1eeb4309.PNG)
 
 <img src="Images/2.PNG">
 
